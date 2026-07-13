@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=180&section=header&text=Mintesnot%20Markos&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm **Mintesnot Markos**
 
@@ -35,7 +34,7 @@ A web-based KPI management platform for planning, tracking, and monitoring organ
 
 **Tech Stack**
 
-`ASP.NET Core` • `React` • `PostgreSQL` • `REST API`
+`Node` • `Express` • `React` • `PostgreSQL` • `REST API`
 
 ---
 
