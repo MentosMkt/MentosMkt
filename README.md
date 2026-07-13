@@ -67,8 +67,7 @@ A web-based KPI management platform for planning, tracking, and monitoring organ
 
 * ⭐ KPI Monitoring System
 * ⭐ CRM System
-* ⭐ Portfolio Website
-* ⭐ ASP.NET Core Web API
+* Others...
 
 ---
 
