@@ -9,7 +9,7 @@
 
 *Building modern, scalable, and user-focused web applications.*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MentosMkt&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
