@@ -1,59 +1,89 @@
-```md
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=180&section=header&text=Mintesnot%20Markos&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm **Mintesnot Markos**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;ASP.NET+Core+%7C+MERN+Stack+Developer;Clean+Code+%E2%80%A2+Clean+Architecture+%E2%80%A2+Continuous+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;ASP.NET+Core+%7C+MERN+Stack+Developer;Building+Modern+Web+Applications;Clean+Code+%E2%80%A2+Clean+Architecture+%E2%80%A2+Continuous+Learning" alt="Typing SVG" />
 
 ### Full Stack Software Engineer
 
 *Building modern, scalable, and user-focused web applications.*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 **B.Sc. in Software Engineering** — Arba Minch University
-- 💼 **Full Stack Developer Intern** @ Abronal Technologies
-- 🌱 Learning **Microservices Architecture**
-- 🤝 Open to collaborating on **Innovative Web Solutions**
-- 💬 Ask me about **ASP.NET Core, MERN Stack, React, Node.js & PostgreSQL**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,react,nextjs,js,ts,html,css,bootstrap,tailwind,mysql,postgres,mongodb,docker,git,github,vscode,visualstudio,postman,figma&perline=11"/>
-
-</p>
+* 🎓 **B.Sc. in Software Engineering** — Arba Minch University
+* 💼 **Full Stack Developer Intern** @ Abronal Technologies *(5 Months)*
+* 🚀 Passionate about building scalable and maintainable software
+* 🌱 Currently learning **Microservices Architecture**
+* 🤝 Open to collaborating on **Innovative Web Solutions**
+* 💬 Ask me about **ASP.NET Core, MERN Stack, React, Node.js, PostgreSQL & MySQL**
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 📊 KPI Monitoring System for Arba Minch University
+## 📊 KPI Monitoring System
 
-**Tech:** ASP.NET Core • React • PostgreSQL • REST API
+A web-based KPI management platform for planning, tracking, and monitoring organizational performance.
+
+**Tech Stack**
+
+`ASP.NET Core` • `React` • `PostgreSQL` • `REST API`
 
 ---
 
-## 🌱 Currently Exploring
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,react,nextjs,js,ts,html,css,bootstrap,tailwind" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman,figma,vercel,netlify" />
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
 
 `Microservices` • `Distributed Systems` • `Clean Architecture` • `Cloud Computing`
 
 ---
 
+# 📌 Featured Repositories
+
+* ⭐ KPI Monitoring System
+* ⭐ CRM System
+* ⭐ Portfolio Website
+* ⭐ ASP.NET Core Web API
+
+---
+
+# 💡 Philosophy
+
+> **Code with Purpose • Build with Passion • Learn Continuously**
+
+---
+
 <div align="center">
 
-### ⭐ *Code with Purpose • Build with Passion • Learn Continuously*
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
 
 </div>
-```
